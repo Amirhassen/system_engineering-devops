@@ -1,0 +1,15 @@
+total 19
+drwxr-xr-x 1 Amir 197121  0 Jun 28 18:27 .
+drwxr-xr-x 1 Amir 197121  0 Jun 28 16:08 ..
+-rwxr-xr-x 1 Amir 197121 32 Jun 28 16:18 0-hello_world
+-rwxr-xr-x 1 Amir 197121 28 Jun 28 16:50 1-confused_smiley
+-rwxr-xr-x 1 Amir 197121 28 Jun 28 17:00 2-hellofile
+-rwxr-xr-x 1 Amir 197121 39 Jun 28 17:08 3-twofiles
+-rwxr-xr-x 1 Amir 197121 33 Jun 28 17:15 4-lastlines
+-rwxr-xr-x 1 Amir 197121 33 Jun 28 17:23 5-firstlines
+-rwxr-xr-x 1 Amir 197121 36 Jun 28 17:31 6-third_line
+-rwxr-xr-x 1 Amir 197121 99 Jun 28 18:23 7-file
+-rwxr-xr-x 1 Amir 197121 36 Jun 28 18:26 8-cwd_state
+-rw-r--r-- 1 Amir 197121 18 Jun 28 16:26 README.md
+-rw-r--r-- 1 Amir 197121 85 Jun 28 17:31 iacta
+-rw-r--r-- 1 Amir 197121  0 Jun 28 18:27 ls_cwd_content
