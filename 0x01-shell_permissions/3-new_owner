@@ -1,0 +1,3 @@
+#!/bin/bash
+# Changes owner of 'hello' to 'betty'
+chown betty hello
